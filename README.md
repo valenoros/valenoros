@@ -9,7 +9,7 @@
 
 ---
 
-🌱 Web Developer in constant learning. Currently diving deeper into Python and system automation.
+🌱 Web Developer in constant learning, currently mastering JavaScript and frameworks.
 
 💬 Ask me about: Windows Optimization (Lite ISOs), PC Building, and AI-Assisted Web Development.
 
