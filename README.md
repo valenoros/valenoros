@@ -9,6 +9,18 @@
 
 ---
 
+<h1>About Me</h1>
+Aquí tenés una sección de "About Me" en inglés, diseñada específicamente para tu perfil técnico y el proyecto Opticompu. Está redactada para sonar profesional pero con esa chispa de personalidad que ya venimos trabajando.
+
+About Me
+I am Marcelo, a tech enthusiast and developer in constant learning, specialized in high-performance hardware optimization. My journey started with a simple goal: to prove that you don't always need new components to get a "new PC" feel; sometimes, you just need the right software tuning.
+
+I founded Opticompu, a project where I combine my knowledge of Windows architecture (Lite ISOs) and hardware building to help gamers achieve maximum FPS and minimum input lag. Currently, I am expanding my toolkit by mastering JavaScript and modern frameworks, while diving deeper into Python for system automation.
+
+I am a firm believer in the "Build in Public" philosophy, using AI-assisted development to accelerate my workflow and bridge the gap between complex hardware concepts and functional web solutions.
+
+---
+
 🌱 Web Developer in constant learning, currently mastering JavaScript and frameworks.
 
 💬 Ask me about: Windows Optimization (Lite ISOs), PC Building, and AI-Assisted Web Development.
